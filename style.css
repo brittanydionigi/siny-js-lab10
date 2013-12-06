@@ -1,0 +1,14 @@
+
+.product {
+  min-height:250px;
+}
+
+.product img {
+  float:left;
+}
+
+a:link.add-to-cart {
+  background-color: pink;
+  padding: 5px 15px;
+  text-transform: uppercase;
+}
